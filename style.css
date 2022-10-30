@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.justify{
+    text-align: justify;
+}
+
+.img-about{
+    border-radius: 100%;
+    background-color: rgb(2, 49, 31);
+    width:90px;
+    height:90px;
+    margin-top: -40px;
+    
+}
+.card{
+    border: none;
+}
